@@ -30,17 +30,12 @@ Users can interact with the tools through a command-line interface.
 
 ## How to change MAC address manually
 
-$ ifconfig
-to list all devices.
+$ ifconfig [to list all devices.]
 
-$ ifconfig eth0 down
-to disable the interface eth0
+$ ifconfig eth0 down [to disable the interface eth0]
 
-$ifconfig eth0 hw ether 00:11:22:33:44:55
-to change the name
+$ifconfig eth0 hw ether 00:11:22:33:44:55 [to change the name]
 
-$ ifconfig eth0 up
-to enable the interface eth0
+$ ifconfig eth0 up [to enable the interface eth0]
 
-$ ifconfig
-to check if the name was changed
+$ ifconfig [to check if the name was changed]
