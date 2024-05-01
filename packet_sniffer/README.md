@@ -13,12 +13,12 @@ It can extract URLs and potential login information from the captured packets an
 - Scapy library (`pip install scapy`)
 
 ## Usage
-$python http_packet_sniffer.py
+$ python3 main.py
 
 ### Options
 -l, --logging: Specify whether logging is enabled or not. Provide true or false.
 
 ## Example
-python http_packet_sniffer.py -l true
+$ python3 main.py -l true
 
 **Note:** This script is for educational purposes only. Misuse of this script may be illegal and unethical. Use it responsibly and only on networks you have permission to test. The authors of these scripts are not responsible for any misuse or damage caused by the scripts.
