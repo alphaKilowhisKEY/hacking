@@ -1,6 +1,6 @@
 # Ethical Hacking Python Projects
 
-
+Learning Ethical Hacking from Course.
 
 ## Table of Contents
 
