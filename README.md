@@ -15,4 +15,5 @@ Learning Ethical Hacking from Course.
 ## Project List
 
 1. **[MAC address changer](https://github.com/alphaKilowhisKEY/hacking/tree/master/mac_address_changer)**: a set of custom tools for managing devices and performing various operations.
-2. **[ARP Spoofing]()**: Address Resolution Protocol spoofing techniques for educational purposes.
+2. **[ARP Spoofing](https://github.com/alphaKilowhisKEY/hacking/tree/master/network_scanner)**: Address Resolution Protocol spoofing techniques for educational purposes.
+3. **[Packet Sniffer](https://github.com/alphaKilowhisKEY/hacking/tree/master/packet_sniffer)**: o sniff HTTP packets on a specified network interface. 
